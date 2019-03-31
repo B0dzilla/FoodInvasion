@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 14e0971d7ea087f43ae3ddcb5d88c762
+timeCreated: 1502831662
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - statisticWindow: {instanceID: 0}
+  - status_norm: {instanceID: 0}
+  - status_perfect: {instanceID: 0}
+  - bankaIndicator: {instanceID: 0}
+  - smallBankaIndicator: {instanceID: 0}
+  - indicatorPolka: {fileID: 1471969842730150, guid: 43f8a9d652bff864285c0dcb57bb371f,
+      type: 2}
+  - explosion: {fileID: 1089033740502796, guid: 4d0a24878b1488b4bacb1def08b4fca4,
+      type: 2}
+  - gameWonMessage: {instanceID: 0}
+  - gameLostMessage: {instanceID: 0}
+  - seriesTextSpawner: {instanceID: 0}
+  - NewRecordText: {instanceID: 0}
+  - timeDisplay: {instanceID: 0}
+  - scoreDisplay: {instanceID: 0}
+  - gameOverScoreDisplayWon: {instanceID: 0}
+  - gameOverScoreDisplayLost: {instanceID: 0}
+  - gameOverInfiniteScore: {instanceID: 0}
+  - gameWonInfiniteScore: {instanceID: 0}
+  - gameLoseInfiniteScore: {instanceID: 0}
+  - WonInfiniteRecord: {instanceID: 0}
+  - LoseInfiniteRecord: {instanceID: 0}
+  - scoreToGetDisplay: {instanceID: 0}
+  - gameStartingTimeDisplay: {instanceID: 0}
+  - gameStartingCanvas: {instanceID: 0}
+  - gameOverCanvas: {instanceID: 0}
+  - mainCanvas: {instanceID: 0}
+  - nextLevelButton: {instanceID: 0}
+  - backgroundCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

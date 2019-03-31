@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 19f28984004b9d9498527a9978800b96
+timeCreated: 1497965893
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AA BadaBoom BB
+  fontNames:
+  - AA BadaBoom BB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1198790026465028}
+  m_IsPrefabParent: 1
+--- !u!1 &1198790026465028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4766848398471958}
+  - component: {fileID: 114593578765754510}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4766848398471958
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1198790026465028}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114593578765754510
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1198790026465028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14e0971d7ea087f43ae3ddcb5d88c762, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelTime: 60
+  negativeScoreMultiplier: 1
+  scoreToBeatLevel: 48
+  rightChoiseSeries: 0
+  statsGoodFood: 0
+  statsBadFood: 0
+  statsLostFood: 0
+  statisticWindow: {fileID: 0}
+  status_norm: {fileID: 0}
+  status_perfect: {fileID: 0}
+  bankaIndicator: {fileID: 1807420287863210, guid: cffce8ba6d5439e4497b6fa831fdf250,
+    type: 2}
+  smallBankaIndicator: {fileID: 1856557273663056, guid: 886f3a17b8687f04099493b7d8906dd8,
+    type: 2}
+  indicatorPolka: {fileID: 1471969842730150, guid: 43f8a9d652bff864285c0dcb57bb371f,
+    type: 2}
+  levelStars: 0
+  counterForInfinity: 0
+  amountScoreForInfinity: 0
+  gameOver: 1
+  isMobile: 1
+  gameWonMessage: {fileID: 0}
+  gameLostMessage: {fileID: 0}
+  seriesTextSpawner: {fileID: 0}
+  NewRecordText: {fileID: 0}
+  timeDisplay: {fileID: 0}
+  scoreDisplay: {fileID: 0}
+  gameOverScoreDisplayWon: {fileID: 0}
+  gameOverScoreDisplayLost: {fileID: 0}
+  gameOverInfiniteScore: {fileID: 0}
+  gameWonInfiniteScore: {fileID: 0}
+  gameLoseInfiniteScore: {fileID: 0}
+  WonInfiniteRecord: {fileID: 0}
+  LoseInfiniteRecord: {fileID: 0}
+  scoreToGetDisplay: {fileID: 0}
+  gameStartingTimeDisplay: {fileID: 0}
+  gameStartingCanvas: {fileID: 0}
+  gameOverCanvas: {fileID: 0}
+  mainCanvas: {fileID: 0}
+  nextLevelButton: {fileID: 0}
+  backgroundCanvas: {fileID: 0}
+  serieTexts:
+  - {fileID: 50515750164483760, guid: 9598eb0882a27ce408df764c1d097d72, type: 2}
+  - {fileID: 50124680679690608, guid: 803f27e6d1ec10746b413b3fbefb7ea7, type: 2}
+  - {fileID: 50223951210701512, guid: 86bf110a1327ade47b4d6a61f8e6e4bc, type: 2}
+  - {fileID: 50714509980938260, guid: 87e27898e3cfc6d42b9d0f703297c3f5, type: 2}
+  stats:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

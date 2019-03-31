@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c5ba752a458ecc44092fc9161f7c84dd
+timeCreated: 1499175350
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AcsiomaC
+  fontNames:
+  - AcsiomaC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
